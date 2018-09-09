@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c6a9351-5536-45d1-ac95-fe6ac2b6bc3a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="23" selection-end-column="65" />
+              <folding>
+                <marker date="1536509930332" expanded="true" signature="6:30" ph="..." />
+                <marker date="1536509930332" expanded="true" signature="46:1125" ph="{...}" />
+                <marker date="1536509930332" expanded="true" signature="75:1123" ph="{...}" />
+                <marker date="1536509930332" expanded="true" signature="221:715" ph="{...}" />
+                <marker date="1536509930332" expanded="true" signature="791:1117" ph="{...}" />
+                <marker date="1536509930332" expanded="true" signature="862:1107" ph="{...}" />
+                <marker date="1536509930332" expanded="true" signature="941:1039" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Simulation.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Automower/Simulation.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+              <folding>
+                <marker date="1536509925788" expanded="true" signature="6:67" ph="..." />
+                <marker date="1536509925788" expanded="true" signature="88:2259" ph="{...}" />
+                <marker date="1536509925788" expanded="true" signature="118:2257" ph="{...}" />
+                <marker date="1536509925788" expanded="true" signature="597:843" ph="/// Initializes the current simulation. ... " />
+                <marker date="1536509925788" expanded="true" signature="912:1222" ph="{...}" />
+                <marker date="1536509925788" expanded="true" signature="1251:1734" ph="{...}" />
+                <marker date="1536509925788" expanded="true" signature="1330:1690" ph="{...}" />
+                <marker date="1536509925788" expanded="true" signature="1398:1578" ph="{...}" />
+                <marker date="1536509925788" expanded="true" signature="1765:1829" ph="{...}" />
+                <marker date="1536509925788" expanded="true" signature="1858:1992" ph="{...}" />
+                <marker date="1536509925788" expanded="true" signature="2022:2156" ph="{...}" />
+                <marker date="1536509925788" expanded="true" signature="2184:2251" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Garden.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Automower/Garden.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="487">
+              <caret line="61" column="67" lean-forward="false" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
+              <folding>
+                <marker date="1536509655722" expanded="true" signature="6:47" ph="..." />
+                <marker date="1536509655722" expanded="true" signature="68:2470" ph="{...}" />
+                <marker date="1536509655722" expanded="true" signature="96:2468" ph="{...}" />
+                <marker date="1536509655722" expanded="true" signature="136:852" ph="{...}" />
+                <marker date="1536509655722" expanded="true" signature="363:677" ph="{...}" />
+                <marker date="1536509655722" expanded="true" signature="431:663" ph="{...}" />
+                <marker date="1536509655722" expanded="true" signature="1113:1945" ph="{...}" />
+                <marker date="1536509655722" expanded="true" signature="1175:1747" ph="{...}" />
+                <marker date="1536509655722" expanded="true" signature="1249:1508" ph="{...}" />
+                <marker date="1536509655722" expanded="true" signature="1332:1439" ph="{...}" />
+                <marker date="1536509655722" expanded="true" signature="2004:2462" ph="{...}" />
+                <marker date="1536509655722" expanded="true" signature="2230:2425" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GrassArea.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Automower/GrassArea.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <marker date="1536504027843" expanded="true" signature="19:525" ph="{...}" />
+                <marker date="1536504027843" expanded="true" signature="57:523" ph="{...}" />
+                <marker date="1536504027843" expanded="true" signature="280:329" ph="{...}" />
+                <marker date="1536504027843" expanded="true" signature="364:411" ph="{...}" />
+                <marker date="1536504027843" expanded="true" signature="454:517" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Boundary.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Automower/Boundary.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+              <folding>
+                <marker date="1536508293494" expanded="true" signature="42:2047" ph="{...}" />
+                <marker date="1536508293494" expanded="true" signature="76:2045" ph="{...}" />
+                <marker date="1536508293494" expanded="true" signature="228:281" ph="{...}" />
+                <marker date="1536508293494" expanded="true" signature="325:633" ph="{...}" />
+                <marker date="1536508293494" expanded="true" signature="677:842" ph="{...}" />
+                <marker date="1536508293494" expanded="true" signature="884:1206" ph="{...}" />
+                <marker date="1536508293494" expanded="true" signature="1254:2039" ph="{...}" />
+                <marker date="1536508293494" expanded="true" signature="1409:1507" ph="{...}" />
+                <marker date="1536508293494" expanded="true" signature="1560:1681" ph="{...}" />
+                <marker date="1536508293494" expanded="true" signature="1716:1814" ph="{...}" />
+                <marker date="1536508293494" expanded="true" signature="1869:1990" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mower.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Automower/Mower.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <marker date="1536509183317" expanded="true" signature="6:51" ph="..." />
+                <marker date="1536509183317" expanded="true" signature="72:1627" ph="{...}" />
+                <marker date="1536509183317" expanded="true" signature="97:1625" ph="{...}" />
+                <marker date="1536509183317" expanded="true" signature="301:414" ph="{...}" />
+                <marker date="1536509183317" expanded="true" signature="444:590" ph="{...}" />
+                <marker date="1536509183317" expanded="true" signature="668:1488" ph="{...}" />
+                <marker date="1536509183317" expanded="true" signature="783:896" ph="{...}" />
+                <marker date="1536509183317" expanded="true" signature="962:1125" ph="{...}" />
+                <marker date="1536509183317" expanded="true" signature="1179:1293" ph="{...}" />
+                <marker date="1536509183317" expanded="true" signature="1359:1478" ph="{...}" />
+                <marker date="1536509183317" expanded="true" signature="1555:1619" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Automower/Mower.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Automower/Field.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Automower/Position.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Automower/Boundary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Automower/GrassArea.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Automower/Garden.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Main/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A992D39-F7A5-4EB4-93F9-C506BD0334B7/eb/2ab3a087/Math.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Automower/Simulation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Automower/Events.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+        <option value="$PROJECT_DIR$/Automower/Class1.cs" />
+        <option value="$PROJECT_DIR$/Automower/Events.cs" />
+        <option value="$PROJECT_DIR$/Automower/Field.cs" />
+        <option value="$PROJECT_DIR$/Automower/GrassArea.cs" />
+        <option value="$PROJECT_DIR$/Automower/Position.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A992D39-F7A5-4EB4-93F9-C506BD0334B7/eb/2ab3a087/Math.cs" />
+        <option value="$PROJECT_DIR$/Automower/Boundary.cs" />
+        <option value="$PROJECT_DIR$/Automower/Mower.cs" />
+        <option value="$PROJECT_DIR$/Automower/Garden.cs" />
+        <option value="$PROJECT_DIR$/Main/Program.cs" />
+        <option value="$PROJECT_DIR$/Automower/Simulation.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="30" />
+    <option name="width" value="1600" />
+    <option name="height" value="870" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Automower (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Main" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Automower (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Automower" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="TEXT" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Main/Main.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Main/bin/Debug/Main.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c6a9351-5536-45d1-ac95-fe6ac2b6bc3a" name="Default" comment="" />
+      <created>1536498879622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536498879622</updated>
+      <workItem from="1536498890818" duration="11043000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11043000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="30" width="1600" height="870" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294423" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294423" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994812" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automower/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automower/Events.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          <folding>
+            <marker date="1536502568452" expanded="true" signature="34:349" ph="{...}" />
+            <marker date="1536502568452" expanded="true" signature="60:147" ph="{...}" />
+            <marker date="1536502568452" expanded="true" signature="193:347" ph="{...}" />
+            <marker date="1536502568452" expanded="true" signature="252:298" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automower/Field.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <marker date="1536503822802" expanded="true" signature="19:251" ph="{...}" />
+            <marker date="1536503822802" expanded="true" signature="44:249" ph="{...}" />
+            <marker date="1536503822802" expanded="true" signature="97:173" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A992D39-F7A5-4EB4-93F9-C506BD0334B7/eb/2ab3a087/Math.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="470" column="32" lean-forward="false" selection-start-line="470" selection-start-column="32" selection-end-line="470" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automower/GrassArea.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <marker date="1536504027843" expanded="true" signature="19:525" ph="{...}" />
+            <marker date="1536504027843" expanded="true" signature="57:523" ph="{...}" />
+            <marker date="1536504027843" expanded="true" signature="280:329" ph="{...}" />
+            <marker date="1536504027843" expanded="true" signature="364:411" ph="{...}" />
+            <marker date="1536504027843" expanded="true" signature="454:517" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automower/Position.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <marker date="1536504203851" expanded="true" signature="19:240" ph="{...}" />
+            <marker date="1536504203851" expanded="true" signature="47:238" ph="{...}" />
+            <marker date="1536504203851" expanded="true" signature="97:155" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automower/Boundary.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding>
+            <marker date="1536508293494" expanded="true" signature="42:2047" ph="{...}" />
+            <marker date="1536508293494" expanded="true" signature="76:2045" ph="{...}" />
+            <marker date="1536508293494" expanded="true" signature="228:281" ph="{...}" />
+            <marker date="1536508293494" expanded="true" signature="325:633" ph="{...}" />
+            <marker date="1536508293494" expanded="true" signature="677:842" ph="{...}" />
+            <marker date="1536508293494" expanded="true" signature="884:1206" ph="{...}" />
+            <marker date="1536508293494" expanded="true" signature="1254:2039" ph="{...}" />
+            <marker date="1536508293494" expanded="true" signature="1409:1507" ph="{...}" />
+            <marker date="1536508293494" expanded="true" signature="1560:1681" ph="{...}" />
+            <marker date="1536508293494" expanded="true" signature="1716:1814" ph="{...}" />
+            <marker date="1536508293494" expanded="true" signature="1869:1990" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automower/Mower.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1536509183317" expanded="true" signature="6:51" ph="..." />
+            <marker date="1536509183317" expanded="true" signature="72:1627" ph="{...}" />
+            <marker date="1536509183317" expanded="true" signature="97:1625" ph="{...}" />
+            <marker date="1536509183317" expanded="true" signature="301:414" ph="{...}" />
+            <marker date="1536509183317" expanded="true" signature="444:590" ph="{...}" />
+            <marker date="1536509183317" expanded="true" signature="668:1488" ph="{...}" />
+            <marker date="1536509183317" expanded="true" signature="783:896" ph="{...}" />
+            <marker date="1536509183317" expanded="true" signature="962:1125" ph="{...}" />
+            <marker date="1536509183317" expanded="true" signature="1179:1293" ph="{...}" />
+            <marker date="1536509183317" expanded="true" signature="1359:1478" ph="{...}" />
+            <marker date="1536509183317" expanded="true" signature="1555:1619" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automower/Garden.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="61" column="67" lean-forward="false" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
+          <folding>
+            <marker date="1536509655722" expanded="true" signature="6:47" ph="..." />
+            <marker date="1536509655722" expanded="true" signature="68:2470" ph="{...}" />
+            <marker date="1536509655722" expanded="true" signature="96:2468" ph="{...}" />
+            <marker date="1536509655722" expanded="true" signature="136:852" ph="{...}" />
+            <marker date="1536509655722" expanded="true" signature="363:677" ph="{...}" />
+            <marker date="1536509655722" expanded="true" signature="431:663" ph="{...}" />
+            <marker date="1536509655722" expanded="true" signature="1113:1945" ph="{...}" />
+            <marker date="1536509655722" expanded="true" signature="1175:1747" ph="{...}" />
+            <marker date="1536509655722" expanded="true" signature="1249:1508" ph="{...}" />
+            <marker date="1536509655722" expanded="true" signature="1332:1439" ph="{...}" />
+            <marker date="1536509655722" expanded="true" signature="2004:2462" ph="{...}" />
+            <marker date="1536509655722" expanded="true" signature="2230:2425" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="23" selection-end-column="65" />
+          <folding>
+            <marker date="1536509930332" expanded="true" signature="6:30" ph="..." />
+            <marker date="1536509930332" expanded="true" signature="46:1125" ph="{...}" />
+            <marker date="1536509930332" expanded="true" signature="75:1123" ph="{...}" />
+            <marker date="1536509930332" expanded="true" signature="221:715" ph="{...}" />
+            <marker date="1536509930332" expanded="true" signature="791:1117" ph="{...}" />
+            <marker date="1536509930332" expanded="true" signature="862:1107" ph="{...}" />
+            <marker date="1536509930332" expanded="true" signature="941:1039" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automower/Simulation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+          <folding>
+            <marker date="1536509925788" expanded="true" signature="6:67" ph="..." />
+            <marker date="1536509925788" expanded="true" signature="88:2259" ph="{...}" />
+            <marker date="1536509925788" expanded="true" signature="118:2257" ph="{...}" />
+            <marker date="1536509925788" expanded="true" signature="597:843" ph="/// Initializes the current simulation. ... " />
+            <marker date="1536509925788" expanded="true" signature="912:1222" ph="{...}" />
+            <marker date="1536509925788" expanded="true" signature="1251:1734" ph="{...}" />
+            <marker date="1536509925788" expanded="true" signature="1330:1690" ph="{...}" />
+            <marker date="1536509925788" expanded="true" signature="1398:1578" ph="{...}" />
+            <marker date="1536509925788" expanded="true" signature="1765:1829" ph="{...}" />
+            <marker date="1536509925788" expanded="true" signature="1858:1992" ph="{...}" />
+            <marker date="1536509925788" expanded="true" signature="2022:2156" ph="{...}" />
+            <marker date="1536509925788" expanded="true" signature="2184:2251" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

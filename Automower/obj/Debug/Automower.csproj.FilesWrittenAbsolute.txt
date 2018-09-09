@@ -1,0 +1,5 @@
+/home/vira/RiderProjects/Automower/Automower/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/vira/RiderProjects/Automower/Automower/bin/Debug/Automower.dll.mdb
+/home/vira/RiderProjects/Automower/Automower/bin/Debug/Automower.dll
+/home/vira/RiderProjects/Automower/Automower/obj/Debug/Automower.dll
+/home/vira/RiderProjects/Automower/Automower/obj/Debug/Automower.dll.mdb
